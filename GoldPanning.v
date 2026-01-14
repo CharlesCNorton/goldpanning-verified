@@ -6,6 +6,7 @@
 (*     vs SiO₂ 2.65 g/cm³), particle stratification under agitation,          *)
 (*     classification (flour/fine/flake/picker/nugget by mesh). Proves        *)
 (*     heavier particles sink monotonically; recovery efficiency bounds.      *)
+(*     Depends on settling-verified.                                          *)
 (*                                                                            *)
 (*     "Gold is where you find it."                                           *)
 (*     - Prospector's proverb                                                 *)
